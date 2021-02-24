@@ -44,7 +44,11 @@
 
 <p>&nbsp;</p>
 
-## 📈 My Stats:     <a href="https://github.com/shaA302"> <img src="https://komarev.com/ghpvc/?username=shaAf302&label=Profile+Views&color=2e8b57&style=flat" /></a>
+## 📈 My Stats:     
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=shaAf302&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+
+<a href="https://github.com/shaA302"> <img src="https://komarev.com/ghpvc/?username=shaAf302&label=Profile+Views&color=2e8b57&style=flat" /></a>
 <p align="center">
 <a href="https://github.com/shaAf302">
   <img src="https://github-readme-stats.vercel.app/api?username=SABERGLOW&count_private=true&show_icons=true&theme=gruvbox" /></a>
