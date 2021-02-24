@@ -7,6 +7,7 @@
   - :man_teacher: I’m a Student Mentor at [HÖOK](https://shmentor.hu) 
 - :man_teacher: I’m Senior Student Mentor at [ELTE](https://people.inf.elte.hu/ilyese/mentor.html)
 - :mortar_board: I’m srudying BSc. Computer Science at Eotvos Lorand University,Budapest. I'll be graduating in 2022 (expected).
+-:seedling: I’m currently learning more about ReactJS.
 
 <p>&nbsp;</p>
 
@@ -46,25 +47,9 @@
 ## 📈 My Stats:     
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=shaAf302&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-
-<a href="https://github.com/shaA302"> <img src="https://komarev.com/ghpvc/?username=shaAf302&label=Profile+Views&color=2e8b57&style=flat" /></a>
-<p align="center">
-<a href="https://github.com/shaAf302">
-  <img src="https://github-readme-stats.vercel.app/api?username=SABERGLOW&count_private=true&show_icons=true&theme=gruvbox" /></a>
-<a href="https://github.com/shaAf302/">
-  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaAf302&layout=compact&theme=gruvbox" /></a>
   
 <p>&nbsp;</p>
 
 ## 🚀 My Projects:
-<p align="center">
-  <a href="https://github.com/SABERGLOW/Movie_Recommender_Engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Movie_Recommender_Engine&theme=gruvbox" /></a>
-<a href="https://github.com/SABERGLOW/Clrd.">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Clrd.&theme=gruvbox" /></a>
-<a href="https://github.com/SABERGLOW/Feedback_Management_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Feedback_Management_System&theme=gruvbox" /></a>
-<a href="https://github.com/SABERGLOW/SONGS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=SONGS&theme=gruvbox" /></a>
 
-  ---
+  
