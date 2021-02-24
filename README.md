@@ -37,6 +37,26 @@
 <p>&nbsp;</p>
 
 ## ☎️ Contact Me:
+
+<a href="https://twitter.com/Cshaaf">
+  <img align="left" alt="shaaf's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/shafaqat-iqbal-7250b2165/">
+  <img align="left" alt="shaaf's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/shaAf302">
+  <img align="left" alt="shaaf's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/shaaf302/">
+  <img align="left" alt="shaaf's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/ishafaqat/">
+  <img align="left" alt="shaaf's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCc6T57H-17zGn1zHuXVEIQA/">
+  <img align="left" alt="shaaf's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
 <p align="center">
 <a href = "mailto:shafaqat.iqbal23@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
 <a href = https://github.com/shaAf302><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
