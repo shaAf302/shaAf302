@@ -1,4 +1,4 @@
-<img src="https://github.com/shaAf302/shaAf302/blob/master/Misc/title.gif" width=100%  align="left"/>
+<img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width=100%  align="left"/>
 
 <p>&nbsp;</p>
 
