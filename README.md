@@ -36,20 +36,20 @@
 
 ## ☎️ Contact Me:
 <p align="center">
-<a href = "mailto:wali6985@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
-<a href = https://github.com/SABERGLOW><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
-<a href = https://www.linkedin.com/in/sardarwaliullah/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
-<a href = https://www.facebook.com/sardarwaliullah/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
-<a href = https://www.instagram.com/sardarwaliullah/><img src='https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png' alt='instagram' height='40'></a>
+<a href = "mailto:shafaqat.iqbal23@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
+<a href = https://github.com/shaAf302><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
+<a href = https://www.linkedin.com/in/shafaqat-iqbal-7250b2165/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
+<a href = https://www.facebook.com/ishafaqat/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
+<a href = https://www.instagram.com/shaaf302/><img src='https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png' alt='instagram' height='40'></a>
 
 <p>&nbsp;</p>
 
-## 📈 My Stats:     <a href="https://github.com/SABERGLOW"> <img src="https://komarev.com/ghpvc/?username=SABERGLOW&label=Profile+Views&color=2e8b57&style=flat" /></a>
+## 📈 My Stats:     <a href="https://github.com/shaA302"> <img src="https://komarev.com/ghpvc/?username=shaAf302&label=Profile+Views&color=2e8b57&style=flat" /></a>
 <p align="center">
-<a href="https://github.com/SABERGLOW">
+<a href="https://github.com/shaAf302">
   <img src="https://github-readme-stats.vercel.app/api?username=SABERGLOW&count_private=true&show_icons=true&theme=gruvbox" /></a>
-<a href="https://github.com/SABERGLOW/">
-  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABERGLOW&layout=compact&theme=gruvbox" /></a>
+<a href="https://github.com/shaAf302/">
+  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaAf302&layout=compact&theme=gruvbox" /></a>
   
 <p>&nbsp;</p>
 
