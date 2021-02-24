@@ -7,7 +7,8 @@
   - :man_teacher: I’m a Student Mentor at [HÖOK](https://shmentor.hu) 
 - :man_teacher: I’m Senior Student Mentor at [ELTE](https://people.inf.elte.hu/ilyese/mentor.html)
 - :mortar_board: I’m srudying BSc. Computer Science at Eotvos Lorand University,Budapest. I'll be graduating in 2022 (expected).
--:seedling: I’m currently learning more about ReactJS.
+- :seedling: I’m currently learning more about ReactJS.
+
 
 <p>&nbsp;</p>
 
