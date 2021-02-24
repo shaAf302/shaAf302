@@ -11,6 +11,7 @@
 - :man_teacher: I’m Senior Student Mentor at [ELTE](https://people.inf.elte.hu/ilyese/mentor.html)
 - :mortar_board: I’m studying BSc. Computer Science at Eotvos Lorand University,Budapest. I'll be graduating in 2022 (expected).
 - :seedling: I’m currently learning more about ReactJS.
+- :closed_mailbox_with_raised_flag: How to reach me: [Email](shafaqat.iqbal23@gmail.com) , [Facebook](www.facebook.com/ishafaqat)
 
 
 <p>&nbsp;</p>
