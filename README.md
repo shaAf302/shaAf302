@@ -3,7 +3,8 @@
 <p>&nbsp;</p>
 
 ## 📚 About Me:
-<a href="https://github.com/SABERGLOW/"><img align="right" width="350" height="263" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaAf302&label=Views&color=blue&style=plastic" alt="shaAf302" /> </p>
+
   - :man_teacher: I’m a Student Mentor at [HÖOK](https://shmentor.hu) 
 - :man_teacher: I’m Senior Student Mentor at [ELTE](https://people.inf.elte.hu/ilyese/mentor.html)
 - :mortar_board: I’m srudying BSc. Computer Science at Eotvos Lorand University,Budapest. I'll be graduating in 2022 (expected).
