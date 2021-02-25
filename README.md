@@ -4,7 +4,7 @@
 
 ## 📚 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaAf302&label=Views&color=blue&style=plastic" alt="shaAf302" /> </p>
-<a href="https://github.com/SABERGLOW/"><img align="right" width="350" height="263" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
+<a href="https://github.com/SABERGLOW/"><img align="right" width="350" height="200" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
 
 
   - :man_teacher: I’m a Student Mentor at [HÖOK](https://shmentor.hu) 
