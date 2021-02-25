@@ -54,10 +54,10 @@
 <a href = https://www.facebook.com/ishafaqat/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
 <a href = https://www.instagram.com/shaaf302/><img src='https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png' alt='instagram' height='40'></a>
 <a href="https://twitter.com/Cshaaf">
-  <img align="left" alt="shaaf's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="shaaf's Twitter" width="22px"  color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCc6T57H-17zGn1zHuXVEIQA/">
-  <img align="left" alt="shaaf's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="center" alt="shaaf's Youtube"  color="red" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <p>&nbsp;</p>
