@@ -7,7 +7,7 @@
 <a href="https://github.com/SABERGLOW/"><img align="right" width="350" height="200" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
 
 
-  - :man_teacher: I’m Cyber Security Analyst  at [CITI](https://www.citi.com/_) 
+  - :man_teacher: I’m Cyber Security Analyst  at [CITI](https://www.citi.com/) 
 - :man_teacher: EX-Software engineer (Front-end) at [Nokia](https://www.nokia.com/)
 - :man_teacher: International student mentor at [HOOK](https://shmentor.hu/)
 - :man_teacher: Founder and Lead of GDSC ELTE (First chapter) at [GDSC](https://www.instagram.com/gdg.elte/)
