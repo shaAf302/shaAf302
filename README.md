@@ -7,12 +7,14 @@
 <a href="https://github.com/SABERGLOW/"><img align="right" width="350" height="200" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
 
 
-  - :man_teacher: I’m a Student Mentor at [HÖOK](https://shmentor.hu) 
-- :man_teacher: I’m Senior Student Mentor at [ELTE](https://people.inf.elte.hu/ilyese/mentor.html)
-- :mortar_board: I’m studying BSc. Computer Science at Eotvos Lorand University,Budapest. I'll be graduating in 2022 (expected).
-- :seedling: I’m currently learning more about ReactJS.
-- 🚀: I'm Currently working on a Vaccination registration Application ( C programming).
-- :mailbox: How to reach me: [Email](shafaqat.iqbal23@gmail.com) , [Facebook](www.facebook.com/ishafaqat)
+  - :man_teacher: I’m Cyber Security Analyst  at [CITI](https://www.citi.com/) 
+- :man_teacher: EX-Software engineer (Front-end) at [Nokia](https://www.nokia.com/)
+- :man_teacher: International student mentor at [HOOK]((https://www.nokia.com/)](https://shmentor.hu/)
+- :man_teacher: Founder and Lead of GDSC ELTE (First chapter) at [GDSC](https://www.instagram.com/gdg.elte/)
+- :mortar_board: I’ve studied BSc. Computer Science at Eotvos Lorand University, Budapest, Graduated 2022.
+- :seedling: I’m currently learning more about ChatBot development.
+- 🚀: I'm Currently working on Application reviews, testing, automation and QA.
+- :mailbox: How to reach me: [Email](shafaqat.iqbal23@gmail.com) , [linkedIn](https://www.linkedin.com/in/shafaqat-iqbal-7250b2165/)
 
 
 <p>&nbsp;</p>
