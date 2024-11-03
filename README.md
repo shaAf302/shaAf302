@@ -30,7 +30,7 @@
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/SQL.png" alt="SQL" width="57" height="55"/> 
 <!-- <p align="center"> -->
 <img src="https://github.com/shaAf302/shaAf302/blob/main/imgs/selenium.256x249.png" alt="selenium" width="48" height="48"/> 
-<img src="https://github.com/shaAf302/shaAf302/blob/main/imgs/vscode" alt="vs" width="48" height="48"/> 
+<img src="https://github.com/shaAf302/shaAf302/blob/main/imgs/vscode.png" alt="vs" width="48" height="48"/> 
 <img src="https://github.com/shaAf302/shaAf302/blob/main/imgs/Git.png" alt="git" width="48" height="48"/> 
 <img src="https://github.com/shaAf302/shaAf302/blob/main/imgs/Ansible_Logo.png" alt="Ansible" width="48" height="48"/> 
   
