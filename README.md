@@ -58,6 +58,9 @@
 
 ## 📈 My Stats:     
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=shaAf302&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+<a href="https://github.com/shaAf302/">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABERGLOW&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,355C7D,6C5B7B,C06C84" /></a>
+  
 
   
 <p>&nbsp;</p>
