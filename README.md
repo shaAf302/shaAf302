@@ -58,8 +58,8 @@
 
 ## 📈 My Stats:     
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=shaAf302&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-<a href="https://github.com/shaAf302/">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaAf302&langs_count=6&&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></a>
+
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaAf302&langs_count=6&&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
   
 
   
