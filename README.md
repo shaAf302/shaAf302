@@ -57,9 +57,10 @@
 <p>&nbsp;</p>
 
 ## 📈 My Stats:     
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=shaAf302&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![My Github Stats]
+<img height="300px" src="https://github-readme-stats.vercel.app/api?username=shaAf302&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
-  <img height="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaAf302&langs_count=6&&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaAf302&langs_count=6&&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
   
 
   
