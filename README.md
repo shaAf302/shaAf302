@@ -26,7 +26,7 @@
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/HTML5.png" alt="html5" width="57" height="55"/> 
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/CSS3.png" alt="css3" width="57" height="55"/> 
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/SQL.png" alt="SQL" width="57" height="55"/> 
-<p align="center">
+<!-- <p align="center"> -->
 <img src="https://github.com/shaAf302/shaAf302/blob/main/imgs/selenium.256x249.png" alt="vscode" width="48" height="48"/> 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjvwxd-b25523cb-c1c0-4716-8e55-3efdc015abef.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjE3ZDVlYTAtNjIzZC00MGIxLTliMzEtMDI3YjkwNGE1ZjE1XC9kZGp2d3hkLWIyNTUyM2NiLWMxYzAtNDcxNi04ZTU1LTNlZmRjMDE1YWJlZi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.78tZSYZMHR4zWvx9nAu-JvXy-nPKCwMmxdBePKEvB08" alt="vs" width="48" height="48"/> 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b5e7dcc-db45-4acb-8078-4f1e40191fe1/dbfye6x-ee5cf816-da93-4428-8cc6-e388e0b45136.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOWI1ZTdkY2MtZGI0NS00YWNiLTgwNzgtNGYxZTQwMTkxZmUxXC9kYmZ5ZTZ4LWVlNWNmODE2LWRhOTMtNDQyOC04Y2M2LWUzODhlMGI0NTEzNi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ._0zGB33NIE1jhC583GLDwygXr5jsMVwfCaEtBWtWNt0" alt="IDEA" width="48" height="48"/> 
